@@ -1,0 +1,15 @@
+# UX Portfolio
+
+About me...
+
+I am taking usability with the intent to improve my UX analysis to apply to my day job where I implement UI's for clients. I took Software Engineering previously and enjoyed building the app my team voted for. 
+
+I work as a full time web developer alongside attending school. It is difficult but rewarding and I expect this course to add to my knowledge base.
+
+## UX Team Project
+
+Coming soon.
+
+## UX Journal
+
+[My Usability Journal](https://usabilityengineering.github.io/tannerhartt/)
