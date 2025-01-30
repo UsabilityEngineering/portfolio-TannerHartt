@@ -16,4 +16,4 @@ Coming soon.
 
 ## UX Journal
 
-[My Usability Journal](https://usabilityengineering.github.io/tannerhartt/)
+[My Usability Journal](https://usabilityengineering.github.io/portfolio-TannerHartt/)
