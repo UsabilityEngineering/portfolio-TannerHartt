@@ -12,7 +12,8 @@ I work as a full time web developer alongside attending school. It is difficult 
 
 ## UX Team Project
 
-Coming soon.
+[Gym Buddy](https://github.com/ChicoState/gymbuddy-ux)
+
 
 ## UX Journal
 
