@@ -16,4 +16,7 @@ Coming soon.
 
 ## UX Journal
 
+[My Usability Journal](https://usabilityengineering.github.io/portfolio-TannerHartt/)
+
+#### Journal Entries:
 [Recording with OBS Studio: A Powerful Tool with a Learning](https://usabilityengineering.github.io/portfolio-TannerHartt/journals/j1)
