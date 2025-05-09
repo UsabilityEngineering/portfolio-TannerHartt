@@ -24,5 +24,3 @@ I have many hobbies outside of development. I enjoy many outdoor activities, spo
 
 #### Journal Entries:
 [Recording with OBS Studio: A Powerful Tool with a Learning](https://usabilityengineering.github.io/portfolio-TannerHartt/journals/j1)
-
-[My User Experience Using The Automation Tool, Make.com](https://usabilityengineering.github.io/portfolio-TannerHartt/journals/j2)
