@@ -8,6 +8,9 @@ I am taking usability with the intent to improve my UX analysis to apply to my d
 
 I work as a full time web developer alongside attending school. It is difficult but rewarding and I expect this course to add to my knowledge base.
 
+Hobbies:
+I have many hobbies outside of development. I enjoy many outdoor activities, sports, fishing, and hiking, among others. I also enjoy plaing the piano, experiencing new foods, and attending many local events around town.
+
 
 
 ## UX Team Project
@@ -21,3 +24,5 @@ I work as a full time web developer alongside attending school. It is difficult 
 
 #### Journal Entries:
 [Recording with OBS Studio: A Powerful Tool with a Learning](https://usabilityengineering.github.io/portfolio-TannerHartt/journals/j1)
+
+[My User Experience Using The Automation Tool, Make.com](https://usabilityengineering.github.io/portfolio-TannerHartt/journals/j2)
